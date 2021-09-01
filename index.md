@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Abdul's First CS193 Homework
+- I enjoy the vibe in the CS193 Class.
+- I like how the TAs teach the class.
+- I like how laid back the class is.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
